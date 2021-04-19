@@ -12,3 +12,5 @@ este es el tipo anonimo, esto evita que se tenga que crear modelos auxiliares
 ```csharp
 new { NombreCompleto = $"{a.Nombre} {a.Apellido}" }
 ```
+
+Its read-only
